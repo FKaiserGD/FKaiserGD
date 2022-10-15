@@ -1,7 +1,7 @@
-## 👋 Olá, meu nome é Filipe. 
-- 📚 Estou interresado na área de web design.
+## 👋 Olá, meu nome é Filipe.
+- 📚 Estou interresado na área de front-end.
 - 💻 Cursando Análise e Desenvolvimento de Sistema.
-- 📖 Começando por C#, Python e HTML.
+- 📖 Começando por HTML 5, CSS 3 e JavaScript.
 
 <div style="display+inline block"><br>
   <a href="https://github.com/fkaisergd">
