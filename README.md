@@ -5,9 +5,12 @@
 - 🎒 Bolsista pelo Embarque Digital
 
 <div style="display=inline block">
-  <a href="https://github.com/fkaisergd">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fkaisergd&show_icons=true&theme=shades-of-purple&include_a11_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkaisergd&layout=compact&langs_count=16&theme=shades-of-purple&border_color=purple"/>
+  <table>
+  <tr>
+    <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=FKaiserGD&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple"></td>
+    <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKaiserGD&hide_border=true&layout=compact&theme=midnight-purple"></td>
+  </tr>
+</table>
 <div>
 <hr>
 <h1>Conhecimentos
