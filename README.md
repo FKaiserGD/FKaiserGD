@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Lacerda.
 - 📚 Desenvolvedor Front-end.
-- 💻 Cursando Análise e Desenvolvimento de Sistema (Terceiro Periodo).
+- 💻 Cursando Análise e Desenvolvimento de Sistema (3/5).
 - 📖 Começando os estudos em React Native, mas principalmente em Angular JS.
 - 🎒 Bolsista pelo Embarque Digital.
 ##
@@ -36,7 +36,3 @@
 <br>
 
 ##
-
-![Snake animation](https://github.com/FKaiserGD/FKaiserGD/blob/output/github-contribution-grid-snake.svg)
-
-
